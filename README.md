@@ -37,7 +37,7 @@ The push button uses the ESP32's internal pull-up resistor through `INPUT_PULLUP
 
 ### CIRCUIT DIAGRAM
 
-![CIRCUIT DIAGRAM](circuit_diagram_pushbutton_led.jpeg)
+![CIRCUIT DIAGRAM](circuit_daigram_pushbutton_led.jpeg)
 
 ## ⚙️ How It Works
 
